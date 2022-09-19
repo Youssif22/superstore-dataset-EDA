@@ -1,0 +1,52 @@
+The Superstore Runs in only 1 Country that's the US
+
+The Store has 3 main categories:
+1 - Technology
+2 - Office Supplies
+3 - Furniture 
+
+
+Segment Analysis:
+1 - most of the shpiments are Standard Class
+2 - Least ones are the same day shpiments
+3 - Most Customers are the *Consumers* and least are the *Home Office*
+
+>>The store should push more the *Same Day* Shipments for marketing to grab more *Consumers* as they are the majority of the customers 
+>>Store have to push more products from their sub-category to the Home Office customers 
+
+
+
+
+Categories Profits & Sales:
+1 - The most ordered Category is "Office Supplies"
+2 - The most profitable (sold) category is "Technology" and the least profits come from "office supplies" the most ordered category
+3 - Least Quantities sold from Technology yet its the most proftable category
+4 - Technology Profits come with 1.4$ million while Office supplies is 1.2$ million
+5 - The total sales of the Superstore is 2,297,200$
+
+>>The Store has to push more Technology products to be sold as it's least quantity ordered yet it's the highest profits, while pushing the Furniture category 
+
+
+Regions, States & Cities
+1 - Office supplies is the highest selling category in all regions (West, South, East, Central)
+2 - Technology is the least sold category in All regions yet it's the highest profits
+3 - South Region has the least technology sold category across all regions
+4 - West has highest Profits of 38% followed by East region of 32%
+
+5 - California is the most selling State, then New York Overall
+6 - New York top selling City in technology by more than Double the sales
+7 - New York And Los Angeles is the highest selling cities in Office Supplies
+8 - Seattle is the highest selling city in Furniture then New York
+
+>>Pushing the south & Central region technology category sales.
+>>Expanding the office supplies in the north region too.
+>>Main city of income for the store is New York, Pushing the offers, marketing, sales in New York
+>>We can push the sales in the other states according to expansion of tehcnology Category
+
+
+Sub-Categories:
+1 - The most selling item is Binders & Paper in office supplies 
+2 - Furnishings are most selling items in Furniture 
+3 - Phones are most selling items in Technology 
+
+
